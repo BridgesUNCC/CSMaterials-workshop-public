@@ -35,8 +35,7 @@ students about unit testing. If your lecture on 2D arrays uses images
 as a visual example then you are also teaching image representation
 and potentially image processing.
 
-#### How do I decide whether I should select a classification item or
-not?
+#### How do I decide whether I should select a classification item or not?
 
 Really it is a judgment call you have to make. But a good rule of
 thumb is "do I expect this material to teach this topic/learning
